@@ -1,4 +1,4 @@
-#### 1inch
+#### 1in ch
 https://api.thegraph.com/subgraphs/name/1inch-exchange/oneinch-liquidity-protocol-v2
 
 #### Balancer
